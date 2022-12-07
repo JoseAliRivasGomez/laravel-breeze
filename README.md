@@ -19,3 +19,7 @@
 # 8 __sail artisan migrate__
 
 # 9. __sail npm run dev__
+
+## URL Railway:
+
+# https://laravel-breeze-production.up.railway.app/
