@@ -4,7 +4,7 @@
 
 # 1. Instalar y abrir Docker
 
-# 2. Clonar el repositorio
+# 2. Clonar el repositorio (https://github.com/JoseAliRivasGomez/laravel-breeze.git)
 
 # 3. Duplicar el .env.example y renombrarlo a .env
 
