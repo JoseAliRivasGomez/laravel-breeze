@@ -4,14 +4,18 @@
 
 # 1. Instalar y abrir Docker
 
-# 2. Duplicar el .env.example y renombrarlo a .env
+# 2. Clonar el repositorio
 
-# 3. __docker run --rm -u "$(id -u):$(id -g)" -v "$(pwd):/var/www/html" -w /var/www/html laravelsail/php81-composer:latest composer install --ignore-platform-reqs__
+# 3. Duplicar el .env.example y renombrarlo a .env
 
-# 3. __alias sail='bash vendor/bin/sail'__
+# 4. __docker run --rm -u "$(id -u):$(id -g)" -v "$(pwd):/var/www/html" -w /var/www/html laravelsail/php81-composer:latest composer install --ignore-platform-reqs__
 
-# 4. __sail up__
+# 5. __alias sail='bash vendor/bin/sail'__
 
-# 5. __sail npm install__
+# 6. __sail up__
 
-# 6. __sail npm run dev__
+# 7. __sail npm install__
+
+# 8 __sail artisan migrate__
+
+# 9. __sail npm run dev__
